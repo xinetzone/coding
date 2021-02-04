@@ -1,6 +1,6 @@
 # 道可道
 
-![Super Linter](https://github.com/xinetzone/coding/workflows/Super-Linter/badge.svg)
+![Super Linter](https://github.com/xinetzone/coding/workflows/xinet/badge.svg)
 
 ## GitHub Actions
 
